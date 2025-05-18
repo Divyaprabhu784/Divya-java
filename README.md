@@ -1,3 +1,1 @@
-#arraylist_linkedlist
 
-#output
