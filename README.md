@@ -2,7 +2,7 @@
 
 [Arraylist_example1-outputlink](https://github.com/Divyaprabhu784/Divya-java/blob/main/Arraylist_example1.png)
 
-[Arraylist_example2-outputlink]
+[Arraylist_example2-outputlink](https://github.com/Divyaprabhu784/Divya-java/blob/main/Arraylist_example2.png)
 
 [Arraylist_example3-outputlink]
 
