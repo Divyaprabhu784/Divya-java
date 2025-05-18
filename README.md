@@ -10,7 +10,7 @@
 
 [Arraylist_example5-outputlink](https://github.com/Divyaprabhu784/Divya-java/blob/main/Arraylist_example5.png)
 
-[Linkedlist_example1-outputlink]
+[Linkedlist_example1-outputlink](https://github.com/Divyaprabhu784/Divya-java/blob/main/Linkedlist_example1.png)
 
 [Linkedlist_example2-outputlink]
 
